@@ -41,7 +41,4 @@ Socket.IO • JWT • REST API
 ✔ Video consultation with one-click link generation
 ✔ AI-driven health suggestions
 
-GitHub Stats:
-[media pointer="file-service://file-CAk6Wzwfhjq3LcGCpEaGbQ"]
-
 🔥 Fun Fact: After countless late-night coding sessions and debugging marathons, my dream is to build something that makes tech fun & accessible for everyone!
