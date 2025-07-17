@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#👋 Hi, I'm Chhavi Kapasiya
-#💻 Mern Stack Developer | Problem Solver
-#Welcome to my GitHub! I’m passionate about building scalable web solutions, integrating AI, and solving real-world problems through DSA and modern technologies.
+## 👋 Hi, I'm Chhavi Kapasiya
+## 💻 Mern Stack Developer | Problem Solver
+## Welcome to my GitHub! I’m passionate about building scalable web solutions, integrating AI, and solving real-world problems through DSA and modern technologies.
 
 
 🚀 About Me
