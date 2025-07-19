@@ -12,11 +12,11 @@ Welcome to my GitHub! I’m passionate about **building scalable web solutions**
 ---
 
 ### 🛠 Tech Stack
-**Languages:** C++ • Python • JavaScript • Java  
-**Frontend:** React.js • HTML5 • CSS3 • Tailwind CSS  
+**Languages:** C++ • C • JavaScript   
+**Frontend:** React.js • HTML5 • CSS3   
 **Backend:** Node.js • Express.js  
 **Database:** MongoDB • MySQL  
-**Tools & Platforms:** Git • GitHub • Docker • Postman • Thunder Client  
+**Tools & Platforms:** Git • GitHub • Postman • Thunder Client  
 **Others:** Socket.IO • JWT • REST API  
 
 ---
