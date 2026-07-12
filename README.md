@@ -40,4 +40,5 @@ Welcome to my GitHub! I’m passionate about **building scalable web solutions**
 
 ---
 
-🔥 **Fun Fact:** I love turning ideas into real-world applications. From solving DSA challenges to building full-stack projects, I enjoy learning new technologies, debugging impossible-looking bugs, and creating software that people actually find useful. 🚀
+🔥 **Fun Fact:** If a project idea pops into my head at midnight, there's a good chance I'll start coding it before going to sleep. 🌙💻
+
