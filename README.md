@@ -22,18 +22,22 @@ Welcome to my GitHub! I’m passionate about **building scalable web solutions**
 ---
 
 ### 📌 Featured Projects
-**🔹 CodeSync**  
-✔ Real-time collaborative editor  
-✔ Monaco Editor with live linting  
-✔ Secure multilingual execution  
 
-**🔹 Techomedicine**  
-✔ Doctor-patient role-based system  
-✔ Video consultation with one-click link generation  
-✔ AI-driven health suggestions  
+**🔹 CaneFlow**  
+✔ Smart sugarcane procurement & queue management system  
+✔ Live queue visibility with ETA prediction  
+✔ Payment tracking with role-based access (Farmer, Mill & Admin)
+
+**🔹 CodeSync**  
+✔ Real-time collaborative code editor  
+✔ Monaco Editor with live collaboration & multilingual code execution  
+✔ Secure authentication and seamless team coding
+
+**🔹 Database Migrator**  
+✔ Automated database migration & backup system  
+✔ Schema & data migration with rollback support  
+✔ Migration history, logging & minimal downtime
 
 ---
 
-🔥 **Fun Fact:** After countless late-night coding sessions and debugging marathons, my dream is to **build something that makes tech fun & accessible for everyone!**
-
-
+🔥 **Fun Fact:** I love turning ideas into real-world applications. From solving DSA challenges to building full-stack projects, I enjoy learning new technologies, debugging impossible-looking bugs, and creating software that people actually find useful. 🚀
