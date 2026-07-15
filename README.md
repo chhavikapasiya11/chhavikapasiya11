@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a Computer Science student passionate about building s
 
 **Tools & Platforms:** Git • GitHub • Postman • Thunder Client • VS Code
 
-**Technologies:** REST APIs • Socket.IO • JWT • WebSockets • OAuth 2.0
+**Technologies:** REST APIs • Socket.IO • JWT • WebSockets 
 
 ---
 
