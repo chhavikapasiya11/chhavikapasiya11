@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Chhavi Kapasiya
-#### 💻 MERN Stack Developer | Problem Solver  
-Welcome to my GitHub! I’m passionate about **building scalable web solutions**, integrating **AI**, and solving real-world problems through **modern technologies**.  
+#### 💻 DSA Enthusiast | MERN Stack Developer | Problem Solver  
+Welcome to my GitHub! I'm a Computer Science student passionate about building scalable full-stack applications, backend systems, and AI-powered solutions. I enjoy solving real-world problems through modern technologies and continuously learning new tools.
 
 ---
 
@@ -11,13 +11,19 @@ Welcome to my GitHub! I’m passionate about **building scalable web solutions**
 
 ---
 
-### 🛠 Tech Stack
-**Languages:** C++ • C • JavaScript   
-**Frontend:** React.js • HTML5 • CSS3   
-**Backend:** Node.js • Express.js  
-**Database:** MongoDB • MySQL  
-**Tools & Platforms:** Git • GitHub • Postman • Thunder Client  
-**Others:** Socket.IO • JWT • REST API  
+**Languages:** C++ • C • Java • JavaScript • SQL
+
+**Frontend:** React.js • HTML5 • CSS3 • Tailwind CSS
+
+**Backend:** Node.js • Express.js
+
+**Databases:** MongoDB • MySQL
+
+**Machine Learning:** Python • Scikit-learn • LightGBM • CatBoost
+
+**Tools & Platforms:** Git • GitHub • Postman • Thunder Client • VS Code
+
+**Technologies:** REST APIs • Socket.IO • JWT • WebSockets • OAuth 2.0
 
 ---
 
